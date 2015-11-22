@@ -1,6 +1,7 @@
 
 ## Variables in the outcome file; the first row in the file indicates the variable name
-# each row has 81 variables; subject, activity and 79 features. The subject and activity are character variables, the other 79 numeric.
+# each row has 81 variables; subject, activity and 79 features. The subject and activity are character variables, 
+the other 79 numeric.
 
 subject activity tBodyAccMeanX tBodyAccMeanY tBodyAccMeanZ tBodyAccStdX tBodyAccStdY 
 tBodyAccStdZ tGravityAccMeanX tGravityAccMeanY tGravityAccMeanZ tGravityAccStdX tGravityAccStdY
