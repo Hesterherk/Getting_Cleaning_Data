@@ -1,5 +1,9 @@
 
 
+## the data of the UCI HAR dataset should be in a file on your computer; the data are downloaded from: 
+## https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+# download library to reshape dat e.g., melt and cast (to stack data and perform functions on the data)
 
 library(reshape2)
 
